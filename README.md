@@ -12,7 +12,7 @@
 - Web3js
 - Faucet
 
-##Requirements
+## Requirements
 - NodeJS
 - Ganache
 - Truffle
